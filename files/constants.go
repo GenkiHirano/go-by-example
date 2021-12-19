@@ -1,4 +1,4 @@
-package main
+package files
 
 import (
 	"fmt"
@@ -7,7 +7,7 @@ import (
 
 const s string = "constant"
 
-func main() {
+func Task4() {
 	fmt.Println(s)
 
 	const n = 500000000

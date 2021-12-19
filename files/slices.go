@@ -1,8 +1,8 @@
-package main
+package files
 
 import "fmt"
 
-func main() {
+func Task9() {
 
 	s := make([]string, 3)
 	fmt.Println("emp:", s)

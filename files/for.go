@@ -1,8 +1,8 @@
-package main
+package files
 
 import "fmt"
 
-func main() {
+func Task5() {
 
 	i := 1
 	for i <= 3 {

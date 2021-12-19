@@ -1,8 +1,8 @@
-package main
+package files
 
 import "fmt"
 
-func main() {
+func Task2() {
 
 	fmt.Println("go" + "lang")
 
