@@ -28,4 +28,9 @@ func main() {
 	files.Task21()
 	files.Task22()
 	files.Task23()
+	files.Task24()
+	files.Task25()
+	files.Task26()
+	files.Task27()
+	files.Task28()
 }
