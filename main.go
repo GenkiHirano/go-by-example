@@ -38,4 +38,7 @@ func main() {
 	files.Task31()
 	files.Task32()
 	files.Task33()
+	files.Task34()
+	files.Task35()
+
 }

@@ -4,6 +4,7 @@ import (
 	"fmt"
 )
 
-func Task25() {
+func Task34() {
 	fmt.Println()
+
 }
