@@ -5,10 +5,7 @@ import (
 	"math"
 )
 
-const s string = "constant"
-
 func Task4() {
-	fmt.Println(s)
 
 	const n = 500000000
 

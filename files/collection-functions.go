@@ -60,9 +60,7 @@ func Task44() {
 	var strs = []string{"peach", "apple", "pear", "plum"}
 
 	fmt.Println(Index(strs, "pear"))
-
 	fmt.Println(Include(strs, "grape"))
-
 	fmt.Println(Any(strs, func(v string) bool {
 		return strings.HasPrefix(v, "p")
 	}))
