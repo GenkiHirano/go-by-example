@@ -70,5 +70,4 @@ func main() {
 	files.Task63()
 	files.Task64()
 	files.Task65()
-	files.Task66()
 }

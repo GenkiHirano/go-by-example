@@ -1,4 +1,4 @@
-package files
+package main
 
 import (
 	"fmt"
@@ -19,7 +19,7 @@ func headers(w http.ResponseWriter, req *http.Request) {
 	}
 }
 
-func Task66() {
+func main() {
 
 	http.HandleFunc("/hello", hello)
 	http.HandleFunc("/headers", headers)
