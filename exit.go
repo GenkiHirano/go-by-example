@@ -7,6 +7,8 @@ import (
 
 func main() {
 
+	fmt.Println()
+
 	defer fmt.Println("!")
 
 	os.Exit(3)
