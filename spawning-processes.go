@@ -8,6 +8,7 @@ import (
 
 func main() {
 
+	fmt.Println()
 	dateCmd := exec.Command("date")
 
 	dateOut, err := dateCmd.Output()
